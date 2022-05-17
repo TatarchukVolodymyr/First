@@ -1,4 +1,10 @@
 First file
 Second line
 
+<<<<<<< HEAD
 my variant!
+=======
+
+you!
+one line
+>>>>>>> 3a83f95a2ec2f662597d887ccd55599ca1be9f88
