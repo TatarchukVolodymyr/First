@@ -1,7 +1,1 @@
-First file
-Second line
-
-my variant!
-
-you!
-one line
+new one
